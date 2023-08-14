@@ -1,0 +1,40 @@
+body,
+html { 
+    
+    width:100%;
+    height:100%;
+    background: url(https://rmze.cc/wp-content/uploads/2019/07/5221-9.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  h1 {
+    font-size: 3em;
+     color: #e2dbdb;
+  }
+  .btn{
+    font-weight: 700;
+    border-radius: 300px;
+    text-transform: uppercase;
+  }
+  .btn-primary{
+    background-color: darkgoldenrod;
+
+    border-color: darkgoldenrod;
+  }
+    
+  .btn-primary:hover{
+    background-color:orangered;
+    border-color: orangered;
+    border-width: 4px ;
+  }
+  .buffer{
+    height: 3rem;
+  }
+  .col{
+    width: 100%;
+  }
+  section{
+    width: 100%;
+  }
